@@ -11,4 +11,6 @@
 ## (Features)
 <ul>
     <li>Implemented chess game feature</li>
- </ul>
+</ul>
+
+ ## netlify link: https://quizzical-elion-2a24a4.netlify.app/
